@@ -1,4 +1,5 @@
 # callyour ai Demo frontend
+This project demonstrates how you can integrate the callyour.ai video call component into your frontend application.
 
 ### Usage
 ```

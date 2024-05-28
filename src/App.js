@@ -1,7 +1,6 @@
-import './App.css';
 import { AIVideoCall } from 'aivideocall';
-import 'aivideocall/dist/style.css'; // Importing the CSS from the component
-
+import 'aivideocall/dist/style.css';
+import React  from 'react';
 
 function App() {
   return (
@@ -15,3 +14,4 @@ function App() {
 }
 
 export default App;
+            
